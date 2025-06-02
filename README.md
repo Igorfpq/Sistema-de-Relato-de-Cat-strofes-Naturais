@@ -5,7 +5,7 @@ Aplicação em linguagem C para cadastro e consulta de relatos de catástrofes n
 
 ## Funcionalidades
 - Cadastro de relatos com validação de dados
-- Cálculo de distância por coordenadas (fórmula de Haversine)
+- Cálculo de distância por coordenadas
 - Consulta de relatos por raio de até 10 km
 - Ordenação alfabética por nome
 - Persistência em arquivo `.txt`
